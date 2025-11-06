@@ -1,0 +1,39 @@
+<svg width="1200" height="350" viewBox="0 0 1200 350" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1200" y2="350" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A0F1F"/>
+      <stop offset="1" stop-color="#1E2A4A"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="300" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4D9FFF"/>
+      <stop offset="1" stop-color="#6AF7D9"/>
+    </linearGradient>
+
+    <style>
+      .title {
+        font-family: 'Inter', sans-serif;
+        font-weight: 800;
+        font-size: 72px;
+        fill: white;
+      }
+      .subtitle {
+        font-family: 'Inter', sans-serif;
+        font-weight: 400;
+        font-size: 28px;
+        fill: #C7D3FF;
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="350" rx="22" fill="url(#grad)"/>
+
+  <text x="70" y="160" class="title">TIAGO BARROS</text>
+  <text x="70" y="220" class="subtitle">Software Engineer • Next.js • Payload CMS • TypeScript</text>
+
+  <path d="M950 20 L1180 20 L1180 250" stroke="url(#accent)" stroke-width="4" opacity="0.45"/>
+  <path d="M880 80 L1130 80 L1130 300" stroke="url(#accent)" stroke-width="3" opacity="0.25"/>
+
+  <circle cx="1080" cy="290" r="60" stroke="url(#accent)" stroke-width="5" opacity="0.5" fill="none"/>
+  <circle cx="1080" cy="290" r="25" fill="url(#accent)" opacity="0.65"/>
+</svg>
