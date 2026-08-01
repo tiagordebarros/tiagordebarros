@@ -243,8 +243,12 @@ Di seguito descrivo brevemente alcune cose su di me:
 <h3>🐍 Snake</h3>
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiagordebarros/tiagordebarros/output/snake-dark.svg"/> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tiagordebarros/tiagordebarros/output/snake.svg"/> <img alt="Snake animation" src="https://raw.githubusercontent.com/tiagordebarros/tiagordebarros/output/snake.svg" width="100%"/> </picture> </div>
 
-<h3>👾 Pac-Man</h3>
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiagordebarros/tiagordebarros/output/pacman-contribution-graph-dark.svg"/> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tiagordebarros/tiagordebarros/output/pacman-contribution-graph.svg"/> <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/tiagordebarros/tiagordebarros/output/pacman-contribution-graph.svg" width="100%"/> </picture> </div>
+<h3>💣 Bomberman</h3>
+<div align="center"> <picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiagordebarros/tiagordebarros/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tiagordebarros/tiagordebarros/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tiagordebarros/tiagordebarros/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture> </div>
 
 <h3>🔢 Contador</h3>
 <div align="center"> <img src="https://count.getloli.com/@:tiagordebarros?theme=green&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile visit counter"/> </div>
